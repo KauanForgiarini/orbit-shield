@@ -31,11 +31,10 @@
 
 ## 👨‍🏫 Professor Orientador
 
-| Nome |
+| Nome | Cargo |
 |---|---|
-| Sabrina Otoni |
-| Andre Godoi |
----
+| Sabrina Otoni | Tutora |
+| Andre Godoi | Coordenador |
 
 ## 📜 Descrição do Projeto
 
