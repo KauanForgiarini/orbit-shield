@@ -33,8 +33,8 @@
 
 | Nome | Disciplina |
 |---|---|
-| A definir | Cibersegurança para IA / Machine Learning / Banco de Dados / Programação |
-
+| Sabrina Otoni |
+| Andre Godoi |
 ---
 
 ## 📜 Descrição do Projeto
