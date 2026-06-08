@@ -31,7 +31,7 @@
 
 ## 👨‍🏫 Professor Orientador
 
-| Nome | Disciplina |
+| Nome |
 |---|---|
 | Sabrina Otoni |
 | Andre Godoi |
