@@ -25,7 +25,6 @@
 | Kauan Maciel Forgiarini | RM574005 | [@kauanforgiarini](https://github.com/kauanforgiarini) |
 | Wagner Adriano de Souza Silva Junior | RM569431 | [@wags2](https://github.com/wags2) |
 | Thiago Lucas da Costa Bessa | RM570367 | — |
-| Willian Kauê Tobias do Carmo | RM570038 | [@willktdc](https://github.com/willktdc) |
 
 ---
 
